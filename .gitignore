@@ -1,7 +1,7 @@
 # DEIT-III
 DEIT-III/datasets_fact/*
 DEIT-III/models*
-
+DEIT-III/images/ADE20K_2021_17_01
 # DINOV2
 DINOV2/dinov2_vitl14_pretrain.pth
 
